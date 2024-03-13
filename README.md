@@ -21,5 +21,5 @@ Este projeto utiliza técnicas avançadas de análise de dados e visualização 
 
 ## Acesso ao Dashboard Interativo 📊
 
-Explore visualizações detalhadas e interativas dos dados analisados neste estudo através do [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZjcwMmZkZjQtYjhjNC00YmQxLWIxM2EtYjQ3NWM3MDJjYWMxIiwidCI6IjE3YWMwODE0LTY4MTAtNGYxYS1hYmQ0LTBjM2Y3NTI4OGI2ZCIsImMiOjZ9).
+Explore visualizações detalhadas e interativas dos dados analisados neste estudo através do [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiYTkwYTM5MDAtZDA0ZS00ZmRhLThjYmEtYzdlOWY0MTExMTU3IiwidCI6IjE3YWMwODE0LTY4MTAtNGYxYS1hYmQ0LTBjM2Y3NTI4OGI2ZCIsImMiOjZ9).
 
